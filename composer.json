@@ -1,0 +1,10 @@
+{
+    "name": "tecs/simple-sql",
+    "description": "A simple file based database with SQL support",
+    "time": "2015-09-05",
+    "autoload": {
+        "psr-4": {
+            "Tecs\\SimpleSql\\": "src/"
+        }
+    }
+}
